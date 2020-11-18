@@ -8,7 +8,7 @@ const HeroContainer = () => (
   <div className="hero-container">
     <video src={Video} autoPlay loop muted />
 
-    <h1>DESCUBRE UN MUNDO NUEVO</h1>
+    <h1>DESCUBRE UN MUNDO NUEVO.</h1>
 
     <p>¿Que esperas?</p>
 
