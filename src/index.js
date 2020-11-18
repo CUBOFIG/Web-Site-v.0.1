@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'shared/FontAwesomeIcon/FontAwesomeIcon'
+import '@fortawesome/free-brands-svg-icons'
+import 'styles/fonts.css'
+import 'styles/index.css'
 
 ReactDOM.render(
   <React.StrictMode>
